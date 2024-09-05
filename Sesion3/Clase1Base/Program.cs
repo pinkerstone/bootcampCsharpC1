@@ -21,8 +21,36 @@ Console.WriteLine("Escribe tu nombre");
 nombre = Console.ReadLine();
 Console.WriteLine($"Mi nombre es {nombre}");
 
-Console.WriteLine("Escribe tu dinero");
-dinero = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine($"Mi dinero es {dinero}");
+Console.WriteLine("Escribe tu edad");
+edad = int.Parse(Console.ReadLine());
+Console.WriteLine($"Mi edad es {edad}");
+
+if (edad >= 18)
+{
+    Console.WriteLine("Puedes ingresar");
+}
+else
+{
+    Console.WriteLine("No puedes entrar");
+}
+
+Console.WriteLine("Tienes gorro");
+string respuestaGorro = Console.ReadLine();
+if (respuestaGorro == "Si")
+{
+    tieneGorro = true;
+}
+else
+{
+    tieneGorro = false;
+}
+if (tieneGorro)
+{
+    Console.WriteLine("Estas con gorro");
+}
+else
+{
+    Console.WriteLine("Estas sin gorro");
+}
 
 //Comentario de prueba
