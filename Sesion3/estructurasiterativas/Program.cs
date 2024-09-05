@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-//Console.WriteLine("Ingresa los numeros");
-//int numero1 = int.Parse(Console.ReadLine());
-//int numero2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Ingresa los numeros a operar");
+double numero1 = double.Parse(Console.ReadLine());
+double numero2 = double.Parse(Console.ReadLine());
+double resultado = 0;
 
 //int resultado = numero1 + numero2;
 
@@ -35,15 +36,41 @@ Console.WriteLine("3. Multiplicar");
 Console.WriteLine("4. Dividir");
 Console.WriteLine("5. Potencia");
 Console.WriteLine("6. Raiz");
+Console.WriteLine("7. Salir");
 Console.WriteLine("Ingresa tu opcion");
 opcion = int.Parse(Console.ReadLine());
-    if (opcion == 1)
+
+switch (opcion)
     {
-        Console.WriteLine("Sumando");
+        case 1:
+            {
+                resultado = numero1 + numero2;
+                break;
+            }
+        case 2:
+            resultado = numero1 - numero2;
+            break;
+        case 3:
+            resultado = numero1 * numero2;
+            break;
+        case 4:
+            if (numero2 > 0)
+            {
+                resultado = numero1 / numero2;
+            }
+            else
+            {
+                Console.WriteLine("No se puede dividir");
+            }
+            break;
+        case 5:
+            break;
+        case 6:
+            break;
+        default:
+            break;
+            
     }
-    if (opcion == 2)
-    {
-        Console.WriteLine("Resta");
-    }
+    Console.WriteLine($"El resultado es {resultado}");
 }
 Console.WriteLine("Salida");
