@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Dynamic;
+using System.Globalization;
 using System.Net.Mail;
 
 Console.WriteLine("Hello, World!");
@@ -23,3 +24,5 @@ Console.WriteLine($"Mi nombre es {nombre}");
 Console.WriteLine("Escribe tu dinero");
 dinero = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine($"Mi dinero es {dinero}");
+
+//Comentario de prueba
