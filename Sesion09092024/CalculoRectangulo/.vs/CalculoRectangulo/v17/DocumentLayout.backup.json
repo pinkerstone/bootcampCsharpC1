@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\source\\repos\\CalculoRectangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B84DA7DD-27F7-4EE4-B2B4-AFBF6AECEA78}|..\\Demo03\\Demo03.csproj|c:\\users\\luis gabriel\\source\\repos\\demo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCB01F3-20DD-43D1-8799-99CE34E7D66B}|..\\Demo02\\Demo02.csproj|c:\\users\\luis gabriel\\source\\repos\\demo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE22CD2-BFE5-473E-A21F-F739040632BD}|CalculoRectangulo.csproj|c:\\users\\luis gabriel\\source\\repos\\calculorectangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE22CD2-BFE5-473E-A21F-F739040632BD}|CalculoRectangulo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\source\\repos\\Demo03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Demo03\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\source\\repos\\Demo03\\Program.cs*",
+              "RelativeToolTip": "..\\Demo03\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAxwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:18:35.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\source\\repos\\Demo02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Demo02\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\source\\repos\\Demo02\\Program.cs",
+              "RelativeToolTip": "..\\Demo02\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:05:00.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\source\\repos\\CalculoRectangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\source\\repos\\CalculoRectangulo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwEEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:56:55.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoRectangulo", "CalculoRectangulo.csproj", "{6CE22CD2-BFE5-473E-A21F-F739040632BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo02", "..\Demo02\Demo02.csproj", "{CDCB01F3-20DD-43D1-8799-99CE34E7D66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo03", "..\Demo03\Demo03.csproj", "{B84DA7DD-27F7-4EE4-B2B4-AFBF6AECEA78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE22CD2-BFE5-473E-A21F-F739040632BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE22CD2-BFE5-473E-A21F-F739040632BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE22CD2-BFE5-473E-A21F-F739040632BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE22CD2-BFE5-473E-A21F-F739040632BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCB01F3-20DD-43D1-8799-99CE34E7D66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCB01F3-20DD-43D1-8799-99CE34E7D66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCB01F3-20DD-43D1-8799-99CE34E7D66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCB01F3-20DD-43D1-8799-99CE34E7D66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84DA7DD-27F7-4EE4-B2B4-AFBF6AECEA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84DA7DD-27F7-4EE4-B2B4-AFBF6AECEA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84DA7DD-27F7-4EE4-B2B4-AFBF6AECEA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84DA7DD-27F7-4EE4-B2B4-AFBF6AECEA78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA28B31-B5F0-4E15-B410-D331115D4253}
+	EndGlobalSection
+EndGlobal
