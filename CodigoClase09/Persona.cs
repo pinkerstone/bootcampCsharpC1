@@ -30,6 +30,6 @@ namespace CodigoClase09
         {
             return DateTime.Now.Year - FechaNacimiento.Year;
         }
-        
+        //internal se utiliza para las clases y es para que esta solo pueda ser utilizada en un proyecto y no pueda ser referenciada desde otro
     }
 }

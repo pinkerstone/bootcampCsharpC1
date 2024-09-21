@@ -3,20 +3,20 @@
 
 using CodigoClase09;
 
-//Persona persona1 = new Persona()
-//{
-//    Nombres = "Luis Gabriel",
-//    Apellidos = "Ulloa Flores"
-//};
+Persona persona1 = new Persona()
+{
+    Nombres = "Luis Gabriel",
+    Apellidos = "Ulloa Flores"
+};
 
 //persona1.MostrarNombresCompletos();
 
-//Profesor profesor1 = new Profesor()
-//{
-//    Nombres = "Fernando",
-//    Apellidos = "Marquez",
-//    SueldoNeto = 2000
-//};
+Profesor profesor1 = new Profesor()
+{
+    Nombres = "Fernando",
+    Apellidos = "Marquez",
+    SueldoNeto = 2000
+};
 
 Estudiante estudiante1 = new Estudiante
 {
@@ -26,5 +26,7 @@ Estudiante estudiante1 = new Estudiante
     CodigoEstudiante = "19971743"
 };
 
-estudiante1.MostrarDatosEstudiante();
+//estudiante1.MostrarDatosEstudiante();
+
+
 
