@@ -8,7 +8,7 @@ namespace CodigoClase10
 {
     public class CuentaAhorros : Cuenta
     {
-        public void Depositar(double monto)
+        public override void Depositar(double monto)
         {
             //Logica deposito
         }

@@ -8,9 +8,18 @@ namespace CodigoClase10
 {
     public class TarjetaCredito : Cuenta
     {
-        public void Depositar(double monto)
+        public string Marca {  get; set; }
+    
+        public override void Depositar(double monto)
         {
 
+        }
+
+        public override void MostrarInformacion()
+        {
+            Console.WriteLine(NumCuenta);
+            Console.WriteLine(Saldo);
+            Console.WriteLine(Marca);
         }
     }
 }

@@ -8,7 +8,7 @@ namespace CodigoClase10
 {
     public class CuentaMancomunada : Cuenta
     {
-        public void Depositar()
+        public override void Depositar(double monto)
         {
 
         }

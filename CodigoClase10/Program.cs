@@ -10,4 +10,4 @@ Cuenta ahorro1 = new CuentaAhorros()
 };
 
 ahorro1.MostrarInformacion();
-
+ahorro1.Depositar();
