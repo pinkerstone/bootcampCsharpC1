@@ -3,10 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase09\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3BCE0B58-C406-4868-AD31-D0A1488213B0}|..\\Demo03\\Demo03.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\demo03\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3BCE0B58-C406-4868-AD31-D0A1488213B0}|..\\Demo03\\Demo03.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\demo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BCE0B58-C406-4868-AD31-D0A1488213B0}|..\\Demo03\\Demo03.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\demo03\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC2327F-1841-4E66-9587-6C7F71FBDB32}|CodigoClase09.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase09\\matematicas\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC2327F-1841-4E66-9587-6C7F71FBDB32}|CodigoClase09.csproj|solutionrelative:matematicas\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BCE0B58-C406-4868-AD31-D0A1488213B0}|..\\Demo03\\Demo03.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\demo03\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -14,10 +18,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BC2327F-1841-4E66-9587-6C7F71FBDB32}|CodigoClase09.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase09\\matematicas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC2327F-1841-4E66-9587-6C7F71FBDB32}|CodigoClase09.csproj|solutionrelative:matematicas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BC2327F-1841-4E66-9587-6C7F71FBDB32}|CodigoClase09.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase09\\matematicas\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC2327F-1841-4E66-9587-6C7F71FBDB32}|CodigoClase09.csproj|solutionrelative:matematicas\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BC2327F-1841-4E66-9587-6C7F71FBDB32}|CodigoClase09.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase09\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,7 +47,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Poligono.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Demo03\\Poligono.cs",
               "RelativeDocumentMoniker": "..\\Demo03\\Poligono.cs",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Demo03\\Poligono.cs",
               "RelativeToolTip": "..\\Demo03\\Poligono.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T02:27:22.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Matematica.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Demo03\\Matematica.cs",
               "RelativeDocumentMoniker": "..\\Demo03\\Matematica.cs",
@@ -81,20 +81,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Demo03\\Program.cs",
               "RelativeDocumentMoniker": "..\\Demo03\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Demo03\\Program.cs*",
-              "RelativeToolTip": "..\\Demo03\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Demo03\\Program.cs",
+              "RelativeToolTip": "..\\Demo03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T02:17:30.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Cuadrado.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase09\\Matematicas\\Cuadrado.cs",
               "RelativeDocumentMoniker": "Matematicas\\Cuadrado.cs",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Poligono.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase09\\Matematicas\\Poligono.cs",
               "RelativeDocumentMoniker": "Matematicas\\Poligono.cs",
