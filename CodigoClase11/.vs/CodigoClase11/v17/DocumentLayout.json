@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB6F016E-E757-4E76-9202-B0E332A6DAFE}|..\\Clase11Demo02\\Clase11Demo02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase11demo02\\motogas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F016E-E757-4E76-9202-B0E332A6DAFE}|..\\Clase11Demo02\\Clase11Demo02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase11demo02\\imotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36D5D9F5-BDC6-464F-8A3A-42C47F530242}|..\\Clase11Ejecicio2\\Clase11Ejecicio2.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase11ejecicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,9 +46,6 @@
       "AbsoluteMoniker": "D:0:0:{AB6F016E-E757-4E76-9202-B0E332A6DAFE}|..\\Clase11Demo02\\Clase11Demo02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase11demo02\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB6F016E-E757-4E76-9202-B0E332A6DAFE}|..\\Clase11Demo02\\Clase11Demo02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase11demo02\\imotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB6F016E-E757-4E76-9202-B0E332A6DAFE}|..\\Clase11Demo02\\Clase11Demo02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase11demo02\\iluz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,9 +53,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB6F016E-E757-4E76-9202-B0E332A6DAFE}|..\\Clase11Demo02\\Clase11Demo02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase11demo02\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6F016E-E757-4E76-9202-B0E332A6DAFE}|..\\Clase11Demo02\\Clase11Demo02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase11demo02\\motogas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB6F016E-E757-4E76-9202-B0E332A6DAFE}|..\\Clase11Demo02\\Clase11Demo02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase11demo02\\ibicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -85,7 +85,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,32 +94,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\Producto.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Ejecicio2\\Producto.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\Producto.cs",
-              "RelativeToolTip": "..\\Clase11Ejecicio2\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T03:30:13.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IDescuento.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\IDescuento.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Ejecicio2\\IDescuento.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\IDescuento.cs",
-              "RelativeToolTip": "..\\Clase11Ejecicio2\\IDescuento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T03:30:03.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Clase11Ejecicio2\\Program.cs",
@@ -132,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Servicio.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\Servicio.cs",
               "RelativeDocumentMoniker": "..\\Clase11Ejecicio2\\Servicio.cs",
@@ -140,103 +114,11 @@
               "RelativeToolTip": "..\\Clase11Ejecicio2\\Servicio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T03:30:24.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T03:30:24.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Empresa.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Empresa.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Ejercicio1\\Empresa.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Empresa.cs",
-              "RelativeToolTip": "..\\Clase11Ejercicio1\\Empresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T01:23:39.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Program.cs",
-              "RelativeToolTip": "..\\Clase11Ejercicio1\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvx8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T00:36:03.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Sucursal.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Sucursal.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Ejercicio1\\Sucursal.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Sucursal.cs",
-              "RelativeToolTip": "..\\Clase11Ejercicio1\\Sucursal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T01:24:54.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Trabajador.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Trabajador.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Ejercicio1\\Trabajador.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Trabajador.cs",
-              "RelativeToolTip": "..\\Clase11Ejercicio1\\Trabajador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T01:21:20.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase11\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase11\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T00:15:46.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Demo02\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Program.cs",
-              "RelativeToolTip": "..\\Clase11Demo02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T02:07:40.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Demo02\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Vehiculo.cs",
-              "RelativeToolTip": "..\\Clase11Demo02\\Vehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T02:07:58.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "IMotor.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\IMotor.cs",
               "RelativeDocumentMoniker": "..\\Clase11Demo02\\IMotor.cs",
@@ -249,59 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Motocicleta.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Motocicleta.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Demo02\\Motocicleta.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Motocicleta.cs",
-              "RelativeToolTip": "..\\Clase11Demo02\\Motocicleta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T02:24:20.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ILuz.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\ILuz.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Demo02\\ILuz.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\ILuz.cs",
-              "RelativeToolTip": "..\\Clase11Demo02\\ILuz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T03:25:06.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MotorElectrico.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\MotorElectrico.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Demo02\\MotorElectrico.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\MotorElectrico.cs",
-              "RelativeToolTip": "..\\Clase11Demo02\\MotorElectrico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T02:54:19.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Motor.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Motor.cs",
-              "RelativeDocumentMoniker": "..\\Clase11Demo02\\Motor.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Motor.cs",
-              "RelativeToolTip": "..\\Clase11Demo02\\Motor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T02:23:23.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "MotoGas.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\MotoGas.cs",
               "RelativeDocumentMoniker": "..\\Clase11Demo02\\MotoGas.cs",
@@ -314,6 +144,162 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDescuento.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\IDescuento.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Ejecicio2\\IDescuento.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\IDescuento.cs",
+              "RelativeToolTip": "..\\Clase11Ejecicio2\\IDescuento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:30:03.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Ejecicio2\\Producto.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejecicio2\\Producto.cs",
+              "RelativeToolTip": "..\\Clase11Ejecicio2\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:30:13.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Empresa.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Ejercicio1\\Empresa.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Empresa.cs",
+              "RelativeToolTip": "..\\Clase11Ejercicio1\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:23:39.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Program.cs",
+              "RelativeToolTip": "..\\Clase11Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvx8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:36:03.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Sucursal.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Ejercicio1\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Sucursal.cs",
+              "RelativeToolTip": "..\\Clase11Ejercicio1\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:24:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Trabajador.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Ejercicio1\\Trabajador.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Ejercicio1\\Trabajador.cs",
+              "RelativeToolTip": "..\\Clase11Ejercicio1\\Trabajador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:21:20.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:15:46.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Demo02\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Program.cs",
+              "RelativeToolTip": "..\\Clase11Demo02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:07:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Demo02\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Vehiculo.cs",
+              "RelativeToolTip": "..\\Clase11Demo02\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:07:58.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Demo02\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Motocicleta.cs",
+              "RelativeToolTip": "..\\Clase11Demo02\\Motocicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:24:20.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILuz.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\ILuz.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Demo02\\ILuz.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\ILuz.cs",
+              "RelativeToolTip": "..\\Clase11Demo02\\ILuz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:25:06.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MotorElectrico.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\MotorElectrico.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Demo02\\MotorElectrico.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\MotorElectrico.cs",
+              "RelativeToolTip": "..\\Clase11Demo02\\MotorElectrico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:54:19.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Motor.cs",
+              "RelativeDocumentMoniker": "..\\Clase11Demo02\\Motor.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\Motor.cs",
+              "RelativeToolTip": "..\\Clase11Demo02\\Motor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:23:23.145Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
               "Title": "IBicicleta.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase11Demo02\\IBicicleta.cs",
@@ -322,8 +308,7 @@
               "RelativeToolTip": "..\\Clase11Demo02\\IBicicleta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T02:27:40.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T02:27:40.867Z"
             },
             {
               "$type": "Document",
@@ -335,8 +320,7 @@
               "RelativeToolTip": "..\\Clase11Demo02\\Bicicleta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T02:09:09.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T02:09:09.446Z"
             },
             {
               "$type": "Document",
@@ -348,8 +332,7 @@
               "RelativeToolTip": "..\\Clase11Demo02\\Coche.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T02:08:57.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T02:08:57.919Z"
             },
             {
               "$type": "Document",
@@ -361,8 +344,7 @@
               "RelativeToolTip": "..\\Clase11Ejercicio1\\GiroNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T01:26:12.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T01:26:12.201Z"
             },
             {
               "$type": "Document",
@@ -374,8 +356,7 @@
               "RelativeToolTip": "..\\Clase11Ejercicio1\\Area.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T01:23:52.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T01:23:52.726Z"
             },
             {
               "$type": "Document",
@@ -387,8 +368,7 @@
               "RelativeToolTip": "Estudiante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T00:18:03.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T00:18:03.052Z"
             },
             {
               "$type": "Document",
@@ -400,8 +380,7 @@
               "RelativeToolTip": "Curso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T00:17:14.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T00:17:14.191Z"
             }
           ]
         }
