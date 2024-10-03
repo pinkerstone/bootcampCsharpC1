@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,9 +78,9 @@
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase12Ejercicio02Interfaces\\Empresa.cs",
               "RelativeDocumentMoniker": "..\\Clase12Ejercicio02Interfaces\\Empresa.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase12Ejercicio02Interfaces\\Empresa.cs*",
-              "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\Empresa.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase12Ejercicio02Interfaces\\Empresa.cs",
+              "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\Empresa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T02:50:06.813Z",
               "EditorCaption": ""
@@ -91,8 +91,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase12Ejercicio02Interfaces\\Program.cs",
               "RelativeDocumentMoniker": "..\\Clase12Ejercicio02Interfaces\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase12Ejercicio02Interfaces\\Program.cs*",
-              "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\Program.cs*",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase12Ejercicio02Interfaces\\Program.cs",
+              "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T02:12:40.583Z",

@@ -95,8 +95,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T02:12:40.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:12:40.583Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T03:09:21.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:09:21.142Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\IDeuda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T03:08:46.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:08:46.765Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "INotificacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:19:59.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:19:59.969Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\EmpleadoContratado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T02:17:30.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:17:30.803Z"
             },
             {
               "$type": "Document",
@@ -160,21 +155,19 @@
               "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\IPagable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T02:14:15.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:14:15.851Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CodigoClase12",
+              "Title": "CodigoClase12.csproj",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase12\\CodigoClase12.csproj",
               "RelativeDocumentMoniker": "CodigoClase12.csproj",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase12\\CodigoClase12.csproj",
               "RelativeToolTip": "CodigoClase12.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T02:25:42.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:25:42.252Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:36:44.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:36:44.245Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:17:57.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:17:57.256Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\EmpleadoPorHoras.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T02:15:08.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:15:08.021Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio02Interfaces\\EmpleadoTiempoCompleto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T02:17:00.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:17:00.951Z"
             },
             {
               "$type": "Document",
@@ -238,8 +227,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio01\\ProductoRopa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:40:34.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:40:34.344Z"
             },
             {
               "$type": "Document",
@@ -251,8 +239,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio01\\ProductoElectronico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:39:43.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:39:43.317Z"
             },
             {
               "$type": "Document",
@@ -264,8 +251,7 @@
               "RelativeToolTip": "..\\Clase12Ejercicio01\\IPedido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:41:00.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:41:00.566Z"
             },
             {
               "$type": "Document",
@@ -277,8 +263,7 @@
               "RelativeToolTip": "Email.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:22:20.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:22:20.412Z"
             },
             {
               "$type": "Document",
@@ -290,8 +275,7 @@
               "RelativeToolTip": "Sms.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:24:34.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T00:24:34.326Z"
             }
           ]
         }
