@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8544F86D-768F-4DD9-AC1C-5D69DDB167C4}|..\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejercicio01\\gestorreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase14\\codigoclase14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|solutionrelative:codigoclase14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0188BDE8-820B-419D-99B1-B826218C0788}|..\\Clase14EjecicioAbiertoCerrado\\Clase14EjecicioAbiertoCerrado.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejecicioabiertocerrado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase14\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase14\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|solutionrelative:clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase14\\clienteregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|solutionrelative:clienteregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase14\\clientemayorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63391C1B-1188-4182-9BB5-0DE05CE1A950}|CodigoClase14.csproj|solutionrelative:clientemayorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CD0CD-FE3E-4EE5-BD48-EF91C966F827}|..\\Clase14Ejercicio3OCP\\Clase14Ejercicio3OCP.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejercicio3ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0188BDE8-820B-419D-99B1-B826218C0788}|..\\Clase14EjecicioAbiertoCerrado\\Clase14EjecicioAbiertoCerrado.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejecicioabiertocerrado\\empleadosenior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0188BDE8-820B-419D-99B1-B826218C0788}|..\\Clase14EjecicioAbiertoCerrado\\Clase14EjecicioAbiertoCerrado.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejecicioabiertocerrado\\empleadojunior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0188BDE8-820B-419D-99B1-B826218C0788}|..\\Clase14EjecicioAbiertoCerrado\\Clase14EjecicioAbiertoCerrado.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejecicioabiertocerrado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8544F86D-768F-4DD9-AC1C-5D69DDB167C4}|..\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejercicio01\\reportereservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8544F86D-768F-4DD9-AC1C-5D69DDB167C4}|..\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8544F86D-768F-4DD9-AC1C-5D69DDB167C4}|..\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejercicio01\\clase14ejercicio01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8544F86D-768F-4DD9-AC1C-5D69DDB167C4}|..\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejercicio01\\reservahotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8544F86D-768F-4DD9-AC1C-5D69DDB167C4}|..\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase14ejercicio01\\servicioemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodigoClase14",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\CodigoClase14.csproj",
+              "RelativeDocumentMoniker": "CodigoClase14.csproj",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\CodigoClase14.csproj",
+              "RelativeToolTip": "CodigoClase14.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T01:11:38.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteVip.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\ClienteVip.cs",
+              "RelativeDocumentMoniker": "ClienteVip.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\ClienteVip.cs",
+              "RelativeToolTip": "ClienteVip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:01:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteRegular.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\ClienteRegular.cs",
+              "RelativeDocumentMoniker": "ClienteRegular.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\ClienteRegular.cs",
+              "RelativeToolTip": "ClienteRegular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:55:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14EjecicioAbiertoCerrado\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Clase14EjecicioAbiertoCerrado\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14EjecicioAbiertoCerrado\\Program.cs",
+              "RelativeToolTip": "..\\Clase14EjecicioAbiertoCerrado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:21:56.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteMayorista.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\ClienteMayorista.cs",
+              "RelativeDocumentMoniker": "ClienteMayorista.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\ClienteMayorista.cs",
+              "RelativeToolTip": "ClienteMayorista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:56:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:13:43.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio3OCP\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Clase14Ejercicio3OCP\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio3OCP\\Program.cs",
+              "RelativeToolTip": "..\\Clase14Ejercicio3OCP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:55:04.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpleadoSenior.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14EjecicioAbiertoCerrado\\EmpleadoSenior.cs",
+              "RelativeDocumentMoniker": "..\\Clase14EjecicioAbiertoCerrado\\EmpleadoSenior.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14EjecicioAbiertoCerrado\\EmpleadoSenior.cs",
+              "RelativeToolTip": "..\\Clase14EjecicioAbiertoCerrado\\EmpleadoSenior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:50:19.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpleadoJunior.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14EjecicioAbiertoCerrado\\EmpleadoJunior.cs",
+              "RelativeDocumentMoniker": "..\\Clase14EjecicioAbiertoCerrado\\EmpleadoJunior.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14EjecicioAbiertoCerrado\\EmpleadoJunior.cs",
+              "RelativeToolTip": "..\\Clase14EjecicioAbiertoCerrado\\EmpleadoJunior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:50:10.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14EjecicioAbiertoCerrado\\Empleado.cs",
+              "RelativeDocumentMoniker": "..\\Clase14EjecicioAbiertoCerrado\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14EjecicioAbiertoCerrado\\Empleado.cs",
+              "RelativeToolTip": "..\\Clase14EjecicioAbiertoCerrado\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:50:00.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Clase14Ejercicio01\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\Program.cs",
+              "RelativeToolTip": "..\\Clase14Ejercicio01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:55:23.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorReservas.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\GestorReservas.cs",
+              "RelativeDocumentMoniker": "..\\Clase14Ejercicio01\\GestorReservas.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\GestorReservas.cs",
+              "RelativeToolTip": "..\\Clase14Ejercicio01\\GestorReservas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:20:40.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReporteReservas.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\ReporteReservas.cs",
+              "RelativeDocumentMoniker": "..\\Clase14Ejercicio01\\ReporteReservas.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\ReporteReservas.cs",
+              "RelativeToolTip": "..\\Clase14Ejercicio01\\ReporteReservas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:03:11.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Clase14Ejercicio01",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj",
+              "RelativeDocumentMoniker": "..\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj",
+              "RelativeToolTip": "..\\Clase14Ejercicio01\\Clase14Ejercicio01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T02:02:35.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservaHotel.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\ReservaHotel.cs",
+              "RelativeDocumentMoniker": "..\\Clase14Ejercicio01\\ReservaHotel.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\ReservaHotel.cs",
+              "RelativeToolTip": "..\\Clase14Ejercicio01\\ReservaHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:56:54.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServicioEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\ServicioEmail.cs",
+              "RelativeDocumentMoniker": "..\\Clase14Ejercicio01\\ServicioEmail.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase14Ejercicio01\\ServicioEmail.cs",
+              "RelativeToolTip": "..\\Clase14Ejercicio01\\ServicioEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:59:43.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4a80451f-ac1d-4071-b3bf-fe29c9cbfa05",
+        "Display": 1,
+        "X": 262,
+        "Y": 229,
+        "Width": 1664,
+        "Height": 761,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase14\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:55:28.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
