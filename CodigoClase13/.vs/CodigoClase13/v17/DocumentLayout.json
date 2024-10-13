@@ -9,11 +9,11 @@
       "AbsoluteMoniker": "D:0:0:{5F1FBA86-597A-437E-925B-E43EA7AD5ADE}|..\\Ejercicio02\\Ejercicio02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejercicio02\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FF6139-CDA4-4682-9981-E341D4641639}|CodigoClase13.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FF6139-CDA4-4682-9981-E341D4641639}|CodigoClase13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F1FBA86-597A-437E-925B-E43EA7AD5ADE}|..\\Ejercicio02\\Ejercicio02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejercicio02\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F1FBA86-597A-437E-925B-E43EA7AD5ADE}|..\\Ejercicio02\\Ejercicio02.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejercicio02\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7FF6139-CDA4-4682-9981-E341D4641639}|CodigoClase13.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF6139-CDA4-4682-9981-E341D4641639}|CodigoClase13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7FF6139-CDA4-4682-9981-E341D4641639}|CodigoClase13.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase13\\invalidcustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CustomException.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Ejercicio02\\CustomException.cs",
               "RelativeDocumentMoniker": "..\\Ejercicio02\\CustomException.cs",
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "..\\Ejercicio02\\Program.cs",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Ejercicio02\\Program.cs",
               "RelativeToolTip": "..\\Ejercicio02\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T02:59:39.967Z",
               "EditorCaption": ""
@@ -71,7 +71,7 @@
               "RelativeDocumentMoniker": "..\\Ejercicio02\\Operaciones.cs",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Ejercicio02\\Operaciones.cs",
               "RelativeToolTip": "..\\Ejercicio02\\Operaciones.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA0wCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T03:00:03.283Z",
               "EditorCaption": ""
@@ -104,13 +104,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase13\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase13\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T00:16:42.212Z",
               "EditorCaption": ""

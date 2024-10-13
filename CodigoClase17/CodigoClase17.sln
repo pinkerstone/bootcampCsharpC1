@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodigoClase17", "CodigoClase17\CodigoClase17.csproj", "{A901D42E-B775-49A3-B389-2576E7E6E609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMDI", "DemoMDI\DemoMDI.csproj", "{90361E16-93DC-4230-A70B-A7762364E033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A901D42E-B775-49A3-B389-2576E7E6E609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A901D42E-B775-49A3-B389-2576E7E6E609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A901D42E-B775-49A3-B389-2576E7E6E609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A901D42E-B775-49A3-B389-2576E7E6E609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90361E16-93DC-4230-A70B-A7762364E033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90361E16-93DC-4230-A70B-A7762364E033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90361E16-93DC-4230-A70B-A7762364E033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90361E16-93DC-4230-A70B-A7762364E033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1496F139-A30A-4205-B1F3-2B955AB6AF30}
+	EndGlobalSection
+EndGlobal
