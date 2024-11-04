@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase1windowsforms\\frmmenuparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:frmmenuparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\formulariooperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:formulariooperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase1windowsforms\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase1windowsforms\\frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase1windowsforms\\frmmenuparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:frmmenuparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BFBA0-0B0A-4F6B-881E-A7572B9504F2}|..\\EjercicioSIngleton1\\EjercicioSIngleton1.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejerciciosingleton1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BFBA0-0B0A-4F6B-881E-A7572B9504F2}|..\\EjercicioSIngleton1\\EjercicioSIngleton1.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejerciciosingleton1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BFBA0-0B0A-4F6B-881E-A7572B9504F2}|..\\EjercicioSIngleton1\\EjercicioSIngleton1.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejerciciosingleton1\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BFBA0-0B0A-4F6B-881E-A7572B9504F2}|..\\EjercicioSIngleton1\\EjercicioSIngleton1.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejerciciosingleton1\\listarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BFBA0-0B0A-4F6B-881E-A7572B9504F2}|..\\EjercicioSIngleton1\\EjercicioSIngleton1.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejerciciosingleton1\\listarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase1windowsforms\\formulariooperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:formulariooperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase1windowsforms\\mdiparent1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:mdiparent1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\clase1windowsforms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A28C374-94F4-4358-87E9-52910E93A1B3}|Clase1WindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BFBA0-0B0A-4F6B-881E-A7572B9504F2}|..\\EjercicioSIngleton1\\EjercicioSIngleton1.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejerciciosingleton1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BFBA0-0B0A-4F6B-881E-A7572B9504F2}|..\\EjercicioSIngleton1\\EjercicioSIngleton1.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejerciciosingleton1\\listarpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1BFBA0-0B0A-4F6B-881E-A7572B9504F2}|..\\EjercicioSIngleton1\\EjercicioSIngleton1.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\ejerciciosingleton1\\listarpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MDIParent1.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "MDIParent1.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\MDIParent1.cs",
+              "RelativeToolTip": "MDIParent1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAMwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:31:05.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPersonas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmPersonas.cs",
+              "RelativeDocumentMoniker": "frmPersonas.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmPersonas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmPersonas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:30:54.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenuParent.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmMenuParent.cs",
+              "RelativeDocumentMoniker": "frmMenuParent.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmMenuParent.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmMenuParent.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:30:34.939Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:20:58.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioOperaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\FormularioOperaciones.cs",
+              "RelativeDocumentMoniker": "FormularioOperaciones.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\FormularioOperaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioOperaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:22:01.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MDIParent1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "MDIParent1.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\MDIParent1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MDIParent1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:21:35.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmPersonas.cs",
+              "RelativeDocumentMoniker": "frmPersonas.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmPersonas.cs",
+              "RelativeToolTip": "frmPersonas.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIAywCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:30:59.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMenuParent.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmMenuParent.cs",
+              "RelativeDocumentMoniker": "frmMenuParent.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmMenuParent.cs",
+              "RelativeToolTip": "frmMenuParent.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAywBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:30:44.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "..\\EjercicioSIngleton1\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\Menu.Designer.cs",
+              "RelativeToolTip": "..\\EjercicioSIngleton1\\Menu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:22:44.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\ListarProductos.cs",
+              "RelativeDocumentMoniker": "..\\EjercicioSIngleton1\\ListarProductos.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\ListarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\EjercicioSIngleton1\\ListarProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:22:25.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormularioOperaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\FormularioOperaciones.cs",
+              "RelativeDocumentMoniker": "FormularioOperaciones.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\FormularioOperaciones.cs",
+              "RelativeToolTip": "FormularioOperaciones.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAMBAwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:22:04.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\EjercicioSIngleton1\\Menu.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\EjercicioSIngleton1\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:18:22.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\EjercicioSIngleton1\\Menu.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\Menu.cs",
+              "RelativeToolTip": "..\\EjercicioSIngleton1\\Menu.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:20:15.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\ListarProductos.cs",
+              "RelativeDocumentMoniker": "..\\EjercicioSIngleton1\\ListarProductos.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\ListarProductos.cs",
+              "RelativeToolTip": "..\\EjercicioSIngleton1\\ListarProductos.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAywCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:17:53.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MDIParent1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\MDIParent1.Designer.cs",
+              "RelativeDocumentMoniker": "MDIParent1.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\MDIParent1.Designer.cs",
+              "RelativeToolTip": "MDIParent1.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:21:41.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\frmMenu.cs",
+              "RelativeToolTip": "frmMenu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAywB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:21:09.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Clase1WindowsForms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:20:40.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EjercicioSIngleton1\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\Program.cs",
+              "RelativeToolTip": "..\\EjercicioSIngleton1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:19:40.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListarPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\ListarPersonas.cs",
+              "RelativeDocumentMoniker": "..\\EjercicioSIngleton1\\ListarPersonas.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\ListarPersonas.cs",
+              "RelativeToolTip": "..\\EjercicioSIngleton1\\ListarPersonas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:17:15.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListarPersonas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\ListarPersonas.cs",
+              "RelativeDocumentMoniker": "..\\EjercicioSIngleton1\\ListarPersonas.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\EjercicioSIngleton1\\ListarPersonas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\EjercicioSIngleton1\\ListarPersonas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:17:04.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
