@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,20 +90,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonasWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PersonasWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml.cs*",
-              "RelativeToolTip": "PersonasWindow.xaml.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBYAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T06:05:17.158Z",
+              "DocumentIndex": 1,
+              "Title": "PersonasWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml",
+              "RelativeDocumentMoniker": "PersonasWindow.xaml",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml*",
+              "RelativeToolTip": "PersonasWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T06:01:34.661Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -119,15 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonasWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml",
-              "RelativeDocumentMoniker": "PersonasWindow.xaml",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml",
-              "RelativeToolTip": "PersonasWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-04T06:01:34.661Z",
+              "DocumentIndex": 0,
+              "Title": "PersonasWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PersonasWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml.cs*",
+              "RelativeToolTip": "PersonasWindow.xaml.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvz0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:05:17.158Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",

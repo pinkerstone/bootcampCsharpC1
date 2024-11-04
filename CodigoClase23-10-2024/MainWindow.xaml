@@ -5,9 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CodigoClase23_10_2024"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="500" Width="400">
     <Grid>
-        
-        
+        <StackPanel VerticalAlignment="Center"  HorizontalAlignment="Center" Margin="20">
+            <StackPanel x:Name="Valores1" Orientation="Horizontal" Margin="0,10">
+                <Label x:Name="lblValor1" Content="Valor 1" Width="100"/>
+                <TextBox x:Name="txtValor1" Width="200" Background="Azure" Margin="10,0" VerticalContentAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel x:Name="Valores2" Orientation="Horizontal" Margin="0,10">
+                <Label x:Name="lvlValor2" Content="Valor 2" Width="100"/>
+                <TextBox x:Name="txtValor2" Width="200" Background="Azure" Margin="10,0" VerticalContentAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel x:Name="stkBotones" Orientation="Horizontal" Margin="0,20">
+                <Button x:Name="btnSumar" Content="Sumar" Width="100" Margin="10" Click="btnSumar_Click"/>
+                <Button x:Name="btnRestar" Content="Restar" Width="100" Margin="10"/>
+                <Button x:Name="btnMultiplicar" Content="Multiplicar" Width="100" Margin="10"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="0,10">
+                <Label x:Name="lblResultadoSuma" Content="Resultado suma" HorizontalAlignment="Center" Width="200" HorizontalContentAlignment="Center" Margin="0,10"/>
+                <Label x:Name="lblResultadoResta" Content="Resultado resta" HorizontalAlignment="Center" Width="200" HorizontalContentAlignment="Center" Margin="0,10"/>
+                <Label x:Name="lblResultadoMutliplicacion" Content="Resultado multiplicacion" HorizontalAlignment="Center" Width="200" HorizontalContentAlignment="Center" Margin="0,10"/>
+            </StackPanel>
+            
+
+        </StackPanel>
+
     </Grid>
 </Window>
