@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase18Forms\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE3B7C4-E1E7-49FB-AD45-AE2AF8F76BD9}|CodigoClase18Forms.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase18forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE3B7C4-E1E7-49FB-AD45-AE2AF8F76BD9}|CodigoClase18Forms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase18Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase18Forms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:38:45.766Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

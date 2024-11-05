@@ -24,6 +24,7 @@ namespace CodigoClase23_10_2024
         public PersonasWindow()
         {
             InitializeComponent();
+            lvPersonas.ItemsSource = personas;
         }
 
         private void btnBuscar_Click(object sender, RoutedEventArgs e)
@@ -59,8 +60,17 @@ namespace CodigoClase23_10_2024
                 Edad = Convert.ToInt32(txtEdad.Text)
             });
 
-            lvPersonas.ItemsSource= personas;
+            lvPersonas.ItemsSource = personas;
             lvPersonas.Items.Refresh();
+            Limpiar();
+
+        }
+
+        public void Limpiar()
+        {
+            txtApellidos.Text = "";
+            txtNombres.Text = "";
+            txtEdad.Text = "";
         }
     }
 }

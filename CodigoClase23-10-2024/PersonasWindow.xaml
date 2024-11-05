@@ -6,6 +6,17 @@
         xmlns:local="clr-namespace:CodigoClase23_10_2024"
         mc:Ignorable="d"
         Title="PersonasWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Beige"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="Red"/>
+                <Setter Property="Foreground" Value="Red"/>
+            </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="20"/>
@@ -17,23 +28,21 @@
             <TextBox x:Name="txtEdad" Width="100" Background="Yellow"/>
         </StackPanel>
         <StackPanel Grid.Row="1">
-            <Button Content="Buscar" x:Name="btnBuscar" Click="btnBuscar_Click"/>
+            <Button Content="Buscar" x:Name="btnBuscar" Click="btnBuscar_Click" Visibility="Hidden"/>
             <Button Content="Agregar" x:Name="btnAgregar" Click="btnAgregar_Click"/>
             <ListView x:Name="lvPersonas">
                 <ListView.ItemTemplate>
-                   <DataTemplate>
+                    <DataTemplate>
                         <StackPanel Orientation="Horizontal">
                             <StackPanel Orientation="Vertical">
                                 <TextBlock Text="{Binding Nombres}" FontWeight="Bold" Width="100"/>
-                                <TextBlock Text="{Binding Apellidos}" Width="100"/>                  
+                                <TextBlock Text="{Binding Apellidos}" Width="100"/>
                             </StackPanel>
                             <TextBlock Text="{Binding Edad}" Width="20" Foreground="Red" VerticalAlignment="Center"/>
                             <TextBlock Text="años" FontSize="8" VerticalAlignment="Center"/>
-                        </StackPanel> 
-
-                </DataTemplate> 
+                        </StackPanel>
+                    </DataTemplate>
                 </ListView.ItemTemplate>
-                
             </ListView>
         </StackPanel>
     </Grid>

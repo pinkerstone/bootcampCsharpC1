@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase23-10-2024\\personaswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:personaswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase23-10-2024\\personaswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:personaswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase23-10-2024\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase23-10-2024\\windowsmantenimientousuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:windowsmantenimientousuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase23-10-2024\\windowsmantenimientousuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:windowsmantenimientousuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase23-10-2024\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\windowsusuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:windowsusuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\windowsmantenimientousuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:windowsmantenimientousuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase23-10-2024\\personaswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:personaswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase23-10-2024\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\windowsmantenimientousuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:windowsmantenimientousuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\windowsusuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:windowsusuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigoclase23-10-2024\\windowsusuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|solutionrelative:windowsusuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1607B6DD-5C02-492D-AAAA-66309BB47DDD}|CodigoClase23-10-2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -82,23 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonasWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml",
-              "RelativeDocumentMoniker": "PersonasWindow.xaml",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml*",
-              "RelativeToolTip": "PersonasWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-04T06:01:34.661Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,87 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonasWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PersonasWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml.cs*",
-              "RelativeToolTip": "PersonasWindow.xaml.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAADgvz0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T06:05:17.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Persona.cs",
-              "RelativeDocumentMoniker": "Persona.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Persona.cs",
-              "RelativeToolTip": "Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T06:00:06.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "Login.xaml.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Login.xaml.cs",
-              "RelativeToolTip": "Login.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T02:43:04.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WindowsMantenimientoUsuarios.xaml",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsMantenimientoUsuarios.xaml",
-              "RelativeDocumentMoniker": "WindowsMantenimientoUsuarios.xaml",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsMantenimientoUsuarios.xaml",
-              "RelativeToolTip": "WindowsMantenimientoUsuarios.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-04T04:12:39.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WindowsMantenimientoUsuarios.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsMantenimientoUsuarios.xaml.cs",
-              "RelativeDocumentMoniker": "WindowsMantenimientoUsuarios.xaml.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsMantenimientoUsuarios.xaml.cs",
-              "RelativeToolTip": "WindowsMantenimientoUsuarios.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAIA+wCcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T04:23:42.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.xaml",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Login.xaml",
-              "RelativeDocumentMoniker": "Login.xaml",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Login.xaml",
-              "RelativeToolTip": "Login.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-04T02:13:56.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -207,7 +115,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Login.xaml",
+              "RelativeDocumentMoniker": "Login.xaml",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Login.xaml",
+              "RelativeToolTip": "Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T02:13:56.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml",
+              "RelativeDocumentMoniker": "PersonasWindow.xaml",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml*",
+              "RelativeToolTip": "PersonasWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T19:19:14.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -215,38 +147,12 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-04T02:12:11.259Z",
+              "WhenOpened": "2024-11-04T20:08:39.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Usuario.cs",
-              "RelativeDocumentMoniker": "Usuario.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Usuario.cs",
-              "RelativeToolTip": "Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T03:55:34.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WindowsUsuarios.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsUsuarios.xaml.cs",
-              "RelativeDocumentMoniker": "WindowsUsuarios.xaml.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsUsuarios.xaml.cs",
-              "RelativeToolTip": "WindowsUsuarios.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwDEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T04:03:46.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "WindowsUsuarios.xaml",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsUsuarios.xaml",
               "RelativeDocumentMoniker": "WindowsUsuarios.xaml",
@@ -254,6 +160,93 @@
               "RelativeToolTip": "WindowsUsuarios.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-04T04:03:27.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowsMantenimientoUsuarios.xaml",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsMantenimientoUsuarios.xaml",
+              "RelativeDocumentMoniker": "WindowsMantenimientoUsuarios.xaml",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsMantenimientoUsuarios.xaml",
+              "RelativeToolTip": "WindowsMantenimientoUsuarios.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T04:12:39.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:00:06.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonasWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PersonasWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\PersonasWindow.xaml.cs",
+              "RelativeToolTip": "PersonasWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:18:28.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Login.xaml.cs",
+              "RelativeToolTip": "Login.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:43:04.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:55:34.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WindowsUsuarios.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsUsuarios.xaml.cs",
+              "RelativeDocumentMoniker": "WindowsUsuarios.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsUsuarios.xaml.cs",
+              "RelativeToolTip": "WindowsUsuarios.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:03:46.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WindowsMantenimientoUsuarios.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsMantenimientoUsuarios.xaml.cs",
+              "RelativeDocumentMoniker": "WindowsMantenimientoUsuarios.xaml.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\CodigoClase23-10-2024\\WindowsMantenimientoUsuarios.xaml.cs",
+              "RelativeToolTip": "WindowsMantenimientoUsuarios.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAlwCcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:23:42.06Z",
               "EditorCaption": ""
             },
             {
