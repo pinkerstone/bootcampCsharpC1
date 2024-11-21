@@ -15,11 +15,11 @@ namespace CodigoClase_18112024
 
         public DataTable DataTable { get; set; }
         
-        public BaseConexionSQL(string operacion)
+        public BaseConexionSQL(string storeProc)
         {
             
             SqlConnection connection = new SqlConnection(CadenaConexion);
-            SqlCommand command = new SqlCommand("ListarPedidosEnvios", connection);
+            SqlCommand command = new SqlCommand(storeProc, connection);
             command.CommandType = CommandType.StoredProcedure;
             DataTable dataTable = new DataTable();
             SqlDataAdapter dataAdapter = new SqlDataAdapter(command);
