@@ -37,6 +37,7 @@
             btnBuscarSDT = new Button();
             label3 = new Label();
             txtPais = new TextBox();
+            btnBuscarDAO = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -119,11 +120,22 @@
             txtPais.Size = new Size(181, 27);
             txtPais.TabIndex = 6;
             // 
+            // btnBuscarDAO
+            // 
+            btnBuscarDAO.Location = new Point(611, 25);
+            btnBuscarDAO.Name = "btnBuscarDAO";
+            btnBuscarDAO.Size = new Size(123, 30);
+            btnBuscarDAO.TabIndex = 7;
+            btnBuscarDAO.Text = "BuscarDAO";
+            btnBuscarDAO.UseVisualStyleBackColor = true;
+            btnBuscarDAO.Click += btnBuscarDAO_Click;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnBuscarDAO);
             Controls.Add(txtPais);
             Controls.Add(label3);
             Controls.Add(btnBuscarSDT);
@@ -152,5 +164,6 @@
         private Button btnBuscarSDT;
         private Label label3;
         private TextBox txtPais;
+        private Button btnBuscarDAO;
     }
 }
