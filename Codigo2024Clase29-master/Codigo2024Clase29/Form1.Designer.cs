@@ -43,6 +43,9 @@
             label2 = new Label();
             txtProducto = new TextBox();
             btnGrabar = new Button();
+            Producto = new DataGridViewTextBoxColumn();
+            Cantidad = new DataGridViewTextBoxColumn();
+            Precio = new DataGridViewTextBoxColumn();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvDetalle).BeginInit();
@@ -113,7 +116,8 @@
             // dgvDetalle
             // 
             dgvDetalle.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvDetalle.Location = new Point(35, 98);
+            dgvDetalle.Columns.AddRange(new DataGridViewColumn[] { Producto, Cantidad, Precio });
+            dgvDetalle.Location = new Point(35, 101);
             dgvDetalle.Name = "dgvDetalle";
             dgvDetalle.RowHeadersWidth = 51;
             dgvDetalle.Size = new Size(689, 188);
@@ -187,6 +191,30 @@
             btnGrabar.UseVisualStyleBackColor = true;
             btnGrabar.Click += btnGrabar_Click;
             // 
+            // Producto
+            // 
+            Producto.DataPropertyName = "Producto";
+            Producto.HeaderText = "Producto";
+            Producto.MinimumWidth = 6;
+            Producto.Name = "Producto";
+            Producto.Width = 125;
+            // 
+            // Cantidad
+            // 
+            Cantidad.DataPropertyName = "Cantidad";
+            Cantidad.HeaderText = "Cantidad";
+            Cantidad.MinimumWidth = 6;
+            Cantidad.Name = "Cantidad";
+            Cantidad.Width = 125;
+            // 
+            // Precio
+            // 
+            Precio.DataPropertyName = "Precio";
+            Precio.HeaderText = "Precio";
+            Precio.MinimumWidth = 6;
+            Precio.Name = "Precio";
+            Precio.Width = 125;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -197,6 +225,7 @@
             Controls.Add(groupBox1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
@@ -222,5 +251,8 @@
         private Label label2;
         private TextBox txtProducto;
         private Button btnGrabar;
+        private DataGridViewTextBoxColumn Producto;
+        private DataGridViewTextBoxColumn Cantidad;
+        private DataGridViewTextBoxColumn Precio;
     }
 }
