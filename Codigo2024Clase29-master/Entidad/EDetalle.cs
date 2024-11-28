@@ -8,6 +8,7 @@ namespace Entidad
 {
     public class EDetalle
     {
+        public int IdDetalle { get; set; }
         public int IdCabecera { get; set; }
         public string Producto { get; set; }
         public int Cantidad { get; set; }

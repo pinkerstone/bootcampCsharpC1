@@ -28,5 +28,51 @@ namespace Datos
 
             }
         }
+
+        public List<EDetalle> ListarDetalle(EDetalle entidad)
+        {
+            SqlCommand command = null;
+            SqlParameter parameterIdCabecera = null;
+            List<EDetalle> eDetalles = null;
+            try
+            {
+                using(SqlConnection connection = new SqlConnection(Constantes._connectionString))
+                {
+                    connection.Open();
+                    command = new SqlCommand("VerDetalleFactura", connection);
+                    command.CommandType = CommandType.StoredProcedure;
+                    parameterIdCabecera = new SqlParameter("@IdCabecera", SqlDbType.Int);
+                    parameterIdCabecera.Value = entidad.IdCabecera;
+                    command.Parameters.Add(parameterIdCabecera);
+
+                    eDetalles = new List<EDetalle>();
+
+                    SqlDataReader reader = command.ExecuteReader();
+
+                    while (reader.Read())
+                    {
+                        eDetalles.Add(new EDetalle()
+                        {
+                            IdDetalle = Convert.ToInt32(reader["IdDetalle"]),
+                            Producto = Convert.ToString(reader["Producto"]),
+                            Cantidad = Convert.ToInt32(reader["Cantidad"]),
+                            Precio = Convert.ToDecimal(reader["Precio"])
+                        });
+                    }
+
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                command = null;
+                parameterIdCabecera = null;
+            }
+
+            return eDetalles;
+        }
     }
 }
