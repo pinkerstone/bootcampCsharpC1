@@ -19,5 +19,10 @@ namespace Negocio
 
         }
 
+        public void Insertar(EDetalle eDetalle)
+        {
+            DDetalle dDetalle = new DDetalle();
+            dDetalle.Insertar(eDetalle);
+        }
     }
 }
