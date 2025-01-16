@@ -175,11 +175,17 @@
     <Compile Include="Models\Cabecera.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\Courses.cs">
+      <DependentUpon>Model4.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\Detalle.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Empleados.cs">
       <DependentUpon>Model3.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Enrollments.cs">
+      <DependentUpon>Model4.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Model1.Context.cs">
       <AutoGen>True</AutoGen>
@@ -210,6 +216,21 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Model3.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Model4.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model4.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Model4.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model4.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Model4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model4.edmx</DependentUpon>
     </Compile>
     <Compile Include="Models\ModelStudents.Context.cs">
       <AutoGen>True</AutoGen>
@@ -271,6 +292,16 @@
       <DependentUpon>Model3.edmx</DependentUpon>
       <LastGenOutput>Model3.cs</LastGenOutput>
     </Content>
+    <Content Include="Models\Model4.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model4.edmx</DependentUpon>
+      <LastGenOutput>Model4.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\Model4.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model4.edmx</DependentUpon>
+      <LastGenOutput>Model4.cs</LastGenOutput>
+    </Content>
     <Content Include="Models\ModelStudents.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>ModelStudents.edmx</DependentUpon>
@@ -326,6 +357,13 @@
     </EntityDeploy>
     <Content Include="Models\Model3.edmx.diagram">
       <DependentUpon>Model3.edmx</DependentUpon>
+    </Content>
+    <EntityDeploy Include="Models\Model4.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model4.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\Model4.edmx.diagram">
+      <DependentUpon>Model4.edmx</DependentUpon>
     </Content>
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />

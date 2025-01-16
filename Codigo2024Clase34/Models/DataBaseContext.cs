@@ -11,8 +11,11 @@ namespace Codigo2024Clase34.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            //optionsBuilder.UseSqlServer("Server=LAPTOP-RMV50JMD\\SQLEXPRESS; " +
+            //    "Database=DBClase34; Integrated Security=True;" +
+            //   "Trust Server Certificate=True ");
             optionsBuilder.UseSqlServer("Server=LAPTOP-RMV50JMD\\SQLEXPRESS; " +
-                "Database=DBClase34; Integrated Security=True;" +
+                "Database=DBClase34; User Id=userPrueba; Pwd=123456;" +
                 "Trust Server Certificate=True ");
         }
     }
