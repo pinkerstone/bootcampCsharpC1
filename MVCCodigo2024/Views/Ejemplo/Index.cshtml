@@ -7,3 +7,26 @@
 
 <a href="https://localhost:44395/Ejemplo/Mensaje">Mensaje</a><br />
 <a href="https://localhost:44395/Ejemplo/Nombres">Nombres</a>
+
+@{ 
+    string nombre = "Luis Gabriel";
+    int edad = 40;
+}
+
+<h2>Hola, @nombre</h2>
+
+@if (edad > 18)
+{
+    <h2>Es mayor de edad</h2>
+}
+else 
+{ 
+    <h2>Es menor de edad</h2>
+}
+
+@for (int x = 1; x<=5; x++)
+{ 
+    <h2>@x</h2>
+}
+
+ 

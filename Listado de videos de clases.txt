@@ -35,3 +35,14 @@ Fecha: 13/01/2025
 
 Clase Gateway 2
 
+Grabación de reunión de Webex: DESARROLLO WEB FULLSTACK CON C# - G3 - PROF. HUGO TORRICO (30/08/2024)-20250116 0229-1
+Contraseña: PwmMwbz5
+Enlace a grabaciones: https://tecsup.webex.com/tecsup/ldr.php?RCID=aad17f87133f4d8fe2ee8ab9ce69b434
+Fecha: 15/01/2025
+
+Clase Front EntityMVC 1
+
+https://www.tutorialsteacher.com/mvc/html-helpers
+HTML Helpers in ASP.Net MVC
+
+
