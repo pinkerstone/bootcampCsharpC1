@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Courses.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Models\\Courses.cs",
               "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Models\\Courses.cs",
@@ -175,26 +175,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Controllers\\CoursesController.cs",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAtwIIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T02:27:19.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Create.cshtml",
               "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Create.cshtml",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Create.cshtml",
               "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-21T02:26:51.531Z",
               "EditorCaption": ""

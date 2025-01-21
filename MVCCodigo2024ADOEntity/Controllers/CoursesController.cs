@@ -50,6 +50,7 @@ namespace MVCCodigo2024ADOEntity.Controllers
         {
             if (ModelState.IsValid)
             {
+                //Asegurar que el Enable sea True
                 courses.Enable = true;
                 db.Courses.Add(courses);
                 db.SaveChanges();
@@ -83,6 +84,7 @@ namespace MVCCodigo2024ADOEntity.Controllers
         {
             if (ModelState.IsValid)
             {
+                //Obteniendo los datos del objeto de la vista para modificar los datos y enviar
                 Courses courseUpdate = db.Courses.Find(courses.CourseID);
                 courseUpdate.CourseName = courses.CourseName;
                 courseUpdate.Credit = courses.Credit;
@@ -115,6 +117,7 @@ namespace MVCCodigo2024ADOEntity.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
+            //Cambio del delete para hacer borrado logico
             Courses courses = db.Courses.Find(id);
             courses.Enable = false;
             db.Entry(courses).State = EntityState.Modified;
