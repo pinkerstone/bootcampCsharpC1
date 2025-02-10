@@ -3,13 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|solutionrelative:controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -27,7 +35,7 @@
       "AbsoluteMoniker": "D:0:0:{E0D64E53-CFBE-4F2F-9EA8-52C97616D06C}|..\\MVCCodigo2024ADOEntity\\MVCCodigo2024ADOEntity.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024adoentity\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\mvccodigo2024\\views\\ejemplo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\views\\ejemplo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|solutionrelative:views\\ejemplo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|solutionrelative:controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\controllers\\ejemplocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\views\\ejemplo\\nombres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|solutionrelative:views\\ejemplo\\nombres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F6601B6-50E1-441D-8D2E-BDE1A817C21A}|MVCCodigo2024.csproj|C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,12 +86,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -104,40 +100,13 @@
               "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Models\\Courses.cs",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Models\\Courses.cs",
               "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Models\\Courses.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T03:12:53.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T03:12:53.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Edit.cshtml",
-              "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Edit.cshtml",
-              "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Edit.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T03:08:27.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Details.cshtml",
-              "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Details.cshtml",
-              "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T03:07:58.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Index.cshtml",
@@ -145,12 +114,11 @@
               "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T03:04:54.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T03:04:54.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Views\\Home\\Index.cshtml",
@@ -158,37 +126,34 @@
               "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T03:03:58.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T03:03:58.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Models\\Model1.edmx",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-01-21T03:01:33.316Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-01-21T03:01:33.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Controllers\\CoursesController.cs",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAtwIIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAtwHQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T02:27:19.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T02:27:19.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Create.cshtml",
               "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Create.cshtml",
@@ -196,12 +161,11 @@
               "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Create.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwCAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T02:26:51.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T02:26:51.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Nombres.cshtml",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Views\\Ejemplo\\Nombres.cshtml",
               "RelativeDocumentMoniker": "Views\\Ejemplo\\Nombres.cshtml",
@@ -209,12 +173,11 @@
               "RelativeToolTip": "Views\\Ejemplo\\Nombres.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T01:03:13.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T01:03:13.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
@@ -222,51 +185,23 @@
               "RelativeToolTip": "Controllers\\ProductosController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T01:25:25.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T01:25:25.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Views\\Ejemplo\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ejemplo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Views\\Ejemplo\\Index.cshtml",
-              "RelativeToolTip": "Views\\Ejemplo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T01:02:45.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Models\\Persona.cs",
-              "RelativeDocumentMoniker": "Models\\Persona.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Models\\Persona.cs",
-              "RelativeToolTip": "Models\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T01:15:44.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T00:39:38.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Models\\Producto.cs",
-              "RelativeToolTip": "Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T01:24:14.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "PersonasController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Controllers\\PersonasController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonasController.cs",
@@ -279,6 +214,66 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Details.cshtml",
+              "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T03:07:58.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024ADOEntity\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "..\\MVCCodigo2024ADOEntity\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T03:08:27.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Views\\Ejemplo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ejemplo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Views\\Ejemplo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ejemplo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T01:02:45.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:15:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:24:14.249Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Views\\Productos\\Details.cshtml",
@@ -287,25 +282,11 @@
               "RelativeToolTip": "Views\\Productos\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T01:39:07.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T01:39:07.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T00:39:38.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EjemploController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Controllers\\EjemploController.cs",
               "RelativeDocumentMoniker": "Controllers\\EjemploController.cs",
@@ -313,12 +294,11 @@
               "RelativeToolTip": "Controllers\\EjemploController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T01:02:01.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T01:02:01.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\MVCCodigo2024\\Views\\Productos\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
@@ -326,8 +306,7 @@
               "RelativeToolTip": "Views\\Productos\\Create.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAIAxwBEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T03:39:40.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T03:39:40.313Z"
             },
             {
               "$type": "Document",
@@ -339,8 +318,7 @@
               "RelativeToolTip": "Views\\Ejemplo\\Mensaje.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T01:02:55.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T01:02:55.384Z"
             },
             {
               "$type": "Document",
@@ -352,8 +330,7 @@
               "RelativeToolTip": "Views\\Personas\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T01:18:13.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T01:18:13.037Z"
             },
             {
               "$type": "Document",
@@ -365,8 +342,7 @@
               "RelativeToolTip": "Views\\Personas\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T01:22:25.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T01:22:25.302Z"
             }
           ]
         }

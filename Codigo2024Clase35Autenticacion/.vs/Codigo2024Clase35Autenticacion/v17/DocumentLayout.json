@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase35Autenticacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase35autenticacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase35autenticacion\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase35autenticacion\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|solutionrelative:controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase35autenticacion\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|solutionrelative:request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase35autenticacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase35autenticacion\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase35autenticacion\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|solutionrelative:request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4C14E0D-DB1B-44BC-BF34-458791CFA002}|Codigo2024Clase35Autenticacion.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase35autenticacion\\response\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,19 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserRequest.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase35Autenticacion\\Request\\UserRequest.cs",
               "RelativeDocumentMoniker": "Request\\UserRequest.cs",
@@ -58,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase35Autenticacion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase35Autenticacion\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAkwCcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T00:41:12.817Z",
               "EditorCaption": ""
@@ -79,11 +75,12 @@
               "RelativeToolTip": "Controllers\\SecurityController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T00:36:23.776Z"
+              "WhenOpened": "2025-01-04T00:36:23.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase35Autenticacion\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -91,7 +88,8 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T00:33:36.893Z"
+              "WhenOpened": "2025-01-04T00:33:36.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,7 +113,8 @@
               "RelativeToolTip": "Controllers\\PeopleController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T00:28:52.132Z"
+              "WhenOpened": "2025-01-04T00:28:52.132Z",
+              "EditorCaption": ""
             }
           ]
         }

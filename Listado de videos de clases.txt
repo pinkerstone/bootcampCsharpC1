@@ -45,4 +45,60 @@ Clase Front EntityMVC 1
 https://www.tutorialsteacher.com/mvc/html-helpers
 HTML Helpers in ASP.Net MVC
 
+Grabación de reunión de Webex: DESARROLLO WEB FULLSTACK CON C# - G3 - PROF. HUGO TORRICO (30/08/2024)-20250121 0359-1
+Contraseña: ErPDiPt2
+Enlace a grabaciones: https://tecsup.webex.com/tecsup/ldr.php?RCID=615e8583238bbd76e0014c03cb9e8289
+Fecha: 20/01/2024
+
+Clase Front EntityMVC 2
+
+Grabación de reunión de Webex: DESARROLLO WEB FULLSTACK CON C# - G3 - PROF. HUGO TORRICO (30/08/2024)-20250123 0405-1
+Contraseña: tJ7JKKmM
+Enlace a grabaciones: https://tecsup.webex.com/tecsup/ldr.php?RCID=1437b5bc3b0f81ac79e9c7486c9ba1c4
+Fecha: 22/01/2025
+
+Clase Razor 1
+
+Grabación de reunión de Webex: DESARROLLO WEB FULLSTACK CON C# - G3 - PROF. HUGO TORRICO (30/08/2024)-20250125 0250-1
+Contraseña: ExYEchr7
+Enlace a grabaciones: https://tecsup.webex.com/tecsup/ldr.php?RCID=91d7c319a4c173a6b7fe1101b7062b7c
+Fecha: 24/01/2025
+
+Clase Examen MVC
+
+Grabación de reunión de Webex: DESARROLLO WEB FULLSTACK CON C# - G3 - PROF. HUGO TORRICO (30/08/2024)-20250128 0358-1
+Contraseña: Kig5hZTK
+Enlace a grabaciones: https://tecsup.webex.com/tecsup/ldr.php?RCID=29a34a7021a35817fcbcfeeea9f7462c
+Fecha: 27/01/2025
+
+Clase Script JQUERY 1
+
+Grabación de reunión de Webex: DESARROLLO WEB FULLSTACK CON C# - G3 - PROF. HUGO TORRICO (30/08/2024)-20250201 0402-1
+Contraseña: WrJRphp7
+Enlace a grabaciones: https://tecsup.webex.com/tecsup/ldr.php?RCID=c5a8cd58684659d4dc398d87ba09ad96
+Fecha: 01/02/2o25
+
+Clase Script JQUERY 2
+
+Grabación de reunión de Webex: DESARROLLO WEB FULLSTACK CON C# - G3 - PROF. HUGO TORRICO (30/08/2024)-20250204 0400-1
+Contraseña: JnRxjTp6
+Enlace a grabaciones: https://tecsup.webex.com/tecsup/ldr.php?RCID=8c6c1846f3d698d1895c1df7391ed159
+Fecha: 03/02/2025
+
+Clase Script JQUERY 3
+
+Grabación de reunión de Webex: DESARROLLO WEB FULLSTACK CON C# - G3 - PROF. HUGO TORRICO (30/08/2024)-20250206 0359-1
+Contraseña: YdRHXWp2
+Enlace a grabaciones: https://tecsup.webex.com/tecsup/ldr.php?RCID=96f2a19b3875e35cccd5d629a35ebed8
+Fecha: 05/02
+
+Clase JQUERY CON API 1
+
+Grabación de reunión de Webex: DESARROLLO WEB FULLSTACK CON C# - G3 - PROF. HUGO TORRICO (30/08/2024)-20250208 0407-1
+Contraseña: JvDn6gSx
+Enlace a grabaciones: https://tecsup.webex.com/tecsup/ldr.php?RCID=ad79083fcdc4b5aa423734836bcd7470
+Fecha: 07/02
+
+Clase JQUERY CON API 2
+
 
