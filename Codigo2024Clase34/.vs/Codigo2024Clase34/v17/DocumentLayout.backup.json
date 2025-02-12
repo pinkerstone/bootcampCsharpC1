@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase34\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase34\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase34\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase34\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase34\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|c:\\users\\luis gabriel\\onedrive\\documentos\\bootcamp\\bootcampcsharp\\codigo2024clase34\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D83146E-27D8-4BD0-A304-E7C687268540}|Codigo2024Clase34.csproj|solutionrelative:response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,30 +83,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T03:21:18.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EnrollmentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Requests\\EnrollmentDTO.cs",
-              "RelativeDocumentMoniker": "Requests\\EnrollmentDTO.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Requests\\EnrollmentDTO.cs",
-              "RelativeToolTip": "Requests\\EnrollmentDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T02:56:46.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "EnrollmentsController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Controllers\\EnrollmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
@@ -114,12 +90,11 @@
               "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAUwE0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T02:45:35.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T02:45:35.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
@@ -131,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "Models\\Enrollment.cs",
@@ -143,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataBaseContext.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Models\\DataBaseContext.cs",
               "RelativeDocumentMoniker": "Models\\DataBaseContext.cs",
@@ -155,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Grade.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Models\\Grade.cs",
               "RelativeDocumentMoniker": "Models\\Grade.cs",
@@ -167,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GradesController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Controllers\\GradesController.cs",
               "RelativeDocumentMoniker": "Controllers\\GradesController.cs",
@@ -179,19 +154,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
               "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAUwBUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T01:38:41.025Z"
+              "WhenOpened": "2024-12-14T01:38:41.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "EnrollmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Requests\\EnrollmentDTO.cs",
+              "RelativeDocumentMoniker": "Requests\\EnrollmentDTO.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Requests\\EnrollmentDTO.cs",
+              "RelativeToolTip": "Requests\\EnrollmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:56:46.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:21:18.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:28:14.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DataBaseContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Migrations\\DataBaseContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\DataBaseContextModelSnapshot.cs",
@@ -203,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "StudentDTO.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Requests\\StudentDTO.cs",
               "RelativeDocumentMoniker": "Requests\\StudentDTO.cs",
@@ -251,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -260,18 +272,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T00:32:17.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Models\\Course.cs",
-              "ToolTip": "C:\\Users\\Luis Gabriel\\OneDrive\\Documentos\\Bootcamp\\bootcampCsharp\\Codigo2024Clase34\\Models\\Course.cs",
-              "RelativeToolTip": "Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T00:28:14.76Z"
             }
           ]
         }
